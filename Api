@@ -1,0 +1,209 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Sherren",
+      "Password": "121212"
+    },
+    {
+      "id": 2,
+      "username": "eldwin",
+      "Password": "121212"
+    },
+    {
+      "username": "sdasdas",
+      "password": "121212",
+      "id": 3
+    },
+    {
+      "username": "sherren",
+      "password": "121212",
+      "id": 4
+    },
+    {
+      "username": "Vincentia",
+      "password": "123123",
+      "id": 5
+    },
+    {
+      "username": "vincentia",
+      "password": "123123",
+      "id": 6
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156015427944307_300x430.jpg",
+      "title": "Anabelle Comes Home",
+      "genre": "Horror",
+      "sinopsis": "Pasangan suami istri Ed Warren (Patrick Wilson) dan Lorraine Warren (Vera Farmiga) sepakat untuk meletakkan boneka Annabelle di ruang khusus mereka. Dibalik lemari kaca suci dan mendapat berkat dari seorang pendeta. Namun malapetaka datang saat Annabelle membangunkan roh-roh jahat yang ada di ruangan itu. Putri pasangan ini, Judy Warren (Mckenna Grace) dan temannya menjadi target teror baru Annabelle dan iblis jahat lainnya.",
+      "playingAt": [
+        9,
+        14,
+        20
+      ],
+      "duration": 106,
+      "sutradara": "Gary Dauberman",
+      "seats": 100,
+      "booked": [
+        [
+          2,
+          5
+        ],
+        [
+          2,
+          6
+        ],
+        [
+          2,
+          7
+        ],
+        [
+          2,
+          14
+        ],
+        [
+          2,
+          15
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          1,
+          7
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          17
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155929194959241_300x430.jpg",
+      "title": "Toy Story 4",
+      "genre": "Animation",
+      "sinopsis": "Woody, Buzz Lightyear, dan anggota geng lainnya memulai perjalanan dengan Bonnie dan mainan baru bernama Forky. Perjalanan yang penuh petualangan berubah menjadi reuni yang tak terduga ketika Woody bertemu dengan Bo Peep. Sebuah perjalanan bersama teman-teman lama dan baru mengungkapkan dunia sangatlah besar untuk sebuah mainan.",
+      "playingAt": [
+        9,
+        14,
+        20
+      ],
+      "duration": 100,
+      "sutradara": "Josh Cooley",
+      "seats": 100,
+      "booked": []
+    },
+    {
+      "id": 3,
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/15601528435034_300x430.jpg",
+      "title": "Men In Black - International",
+      "genre": "Action, Comedy, Sci-fi",
+      "sinopsis": "Men in Black selalu melindungi Bumi dari ancaman alam semesta. Dalam petualangan baru ini, Agen H (Chris Hemsworth) dan rekannya agen M (Tessa Thompson) menangani kasus terbesarnya saat spesies maut bernama Hive mengancam organisasi Men in Black.",
+      "playingAt": [
+        9,
+        14,
+        20
+      ],
+      "duration": 115,
+      "sutradara": "F. Gary Gray",
+      "seats": 100,
+      "booked": []
+    },
+    {
+      "title": "Ikut Aku ke Neraka",
+      "genre": "Horror",
+      "sinopsis": "IKUT AKU KE NERAKA merupakan film horor yang disutradarai oleh Azhar Kinoi Lubis. Hidup begitu sempurna bagi LITA (27thn), menikah dengan RAMA (30thn) Lelaki yang karirnya bagus sebagai management operasional di sebuah pabrik. Kehidupan mereka nyaris sempurna, ketika Lita akan melahirkan bayi pertama mereka. Saat hamil tua, Rama selalu ingin melihat Lita terlihat sempurna mendapat rekomendasi dari dokter ahli bedah plastik ternama, untuk bisa menghilangkan tanda lahir Lita di punggung nya, agar Lita lebih percaya diri. Proses operasi pun berjalan lancar, stretch mark di punggung Lita hilang. \n\nKebahagiaan mereka tidak berlangsung lama karena Lita kerap diteror oleh mahluk halus berwujud wanita menyeramkan. Rama membawa Pak Adam untuk membersihkan rumah mereka dari gangguan hantu tersebut, Pak adam menjelaskan teror ini bukan dari rumah melainkan dari dalam diri Lita sendiri. Pak Adam hanya bisa memberikan petunjuk bahwa jawaban dari teror hantu tersebut ada di masa lalu Lita, yang harus dia telusuri kembali dengan meminta penjelasan dari SARI (50thn), ibu nya yang sudah dia tinggalkan. Saat ini Sari dirawat di rumah sakit jiwa, Sari mengalami gangguan jiwa setelah Lita meninggalkan nya. Lita harus mendapat petunjuk dari Sari yang sudah hilang akal sehat nya, di satu sisi teror semakin bertambah dan merenggut nyawa orang sekitar Rama dan Lita. Mereka harus menyelamatkan nyawa mereka dan juga sang bayi.\n\nDibintangi oleh Clara Bernadeth, Rendy Kjaernett, Cut Mini, Sara Wijayanto, T Rifnu Wikana, Ceu Edoh, Rini Mentari, Nayla D Purnama, Raymond Mc, Dian Sidik. Beli tiket bioskop online kamu di BookMyShow Indonesia.",
+      "playingAt": [
+        9,
+        14,
+        16,
+        20,
+        22
+      ],
+      "duration": "100",
+      "sutradara": "Azhar Kinoi",
+      "image": "https://jadwalnonton.com/data/upload/movies/2019/ikut-aku-ke-neraka-2459.jpg",
+      "id": 4,
+      "seats": 100,
+      "booked": []
+    },
+    {
+      "title": "Spiderman Far From Home",
+      "genre": "Action, Adventure, Comedy",
+      "sinopsis": "Petualangan Peter Parker (Tom Holland) kali ini akan menuju Eropa. Bersama teman-teman sekolahnya MJ (Zendaya), Ned (Jacob Batalon), Betty (Beras Angourie) dan Flash (Tony Revolori). \n\nNamun ancaman datang dalam bentuk yang berbeda, teror mulai menyerang kota-kota di Eropa. Kemunculan sosok Mysterio (Jake Gyllenhaal), Nick Fury (Samuel L. Jackson) dan Happy Hogan (Jon Favreau) akan memberi petunjuk dan tugas baru untuk sang manusia laba-laba itu.",
+      "playingAt": [
+        9,
+        14,
+        16,
+        20,
+        22
+      ],
+      "duration": "129",
+      "sutradara": "Jon Watts",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/15610878872315_300x430.jpg",
+      "id": 5,
+      "seats": 100,
+      "booked": [
+        [
+          2,
+          15
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          3,
+          16
+        ]
+      ]
+    },
+    {
+      "title": "Dua Garis Biru",
+      "genre": "Drama",
+      "sinopsis": "Mungkin DARA (Zara JKT48) dan BIMA (Angga Yunanda) bukan pasangan kekasih sempurna, tapi mereka adalah sahabat yang saling melengkapi. Saat berdua mereka bisa jadi diri sendiri, kebodohan bisa ditertawakan, dan kerapuhan tak perlu ditutupi. Rasa nyaman lebih dari sekadar kata sayang atau cinta. Usia 17 tahun tak pernah sesempurna ini.\n\nHingga muncul keberanian baru di antara mereka. Berdua mereka melanggar batas tanpa tahu konsekuensinya.\n\nKini Bima dan Dara berusaha menjalani tanggung jawab atas pilihan mereka. Mereka pikir mereka siap jadi dewasa untuk menghadapi segala konsekuensinya. Namun, tentu keluguan mereka langsung diuji saat keluarga yang amat mencintai mereka tahu, lalu memaksa masuk dalam perjalanan pilihan mereka.",
+      "playingAt": [
+        9,
+        16
+      ],
+      "duration": "113",
+      "sutradara": "Gina S. Noer",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/155928431941494_300x430.jpg",
+      "id": 6,
+      "seats": 100,
+      "booked": [
+        [
+          3,
+          16
+        ]
+      ]
+    },
+    {
+      "title": "Crawl",
+      "genre": "Action, Adventure, Thriller",
+      "sinopsis": "Ketika badai besar berkategori 5 menghantam Florida. Dan semua pihak berwenang memerintahkan penduduk setempat untuk mengungsi, Haley Keller (Kaya Scodelario) tetap tinggal untuk mencari ayahnya yang hilang, Dave Keller (Barry Pepper). Di sebuah rumah, Haley menemukan sang ayah dalam kondisi terluka karena serangan buaya.\n\nKetika waktu hampir habis untuk bisa selamat. Keduanya sadar bahwa mereka bukan saja dalam bahaya dari buaya besar di sekitarnya, tetapi juga dari air yang naik dengan cepat.",
+      "playingAt": [
+        9,
+        14
+      ],
+      "duration": "87",
+      "sutradara": "Alexandre Aja",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156214637418398_300x430.jpg",
+      "id": 7,
+      "seats": 100,
+      "booked": []
+    }
+  ]
+}
